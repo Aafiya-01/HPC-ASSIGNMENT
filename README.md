@@ -5,7 +5,7 @@
 **Registration No:** 22BSA10071  
 
 ## Assignment Overview
-This assignment focuses on High-Performance Computing (HPC) concepts, including parallel processing, distributed computing, and optimization techniques for computational efficiency.
+This assignment focuses on High-Performance Computing (HPC) concepts, including parallel processing, distributed computing, and optimization techniques for computational efficiency. Additionally, it includes adding this README file from VS Code to GitHub and performing actions through the terminal on VS Code.
 
 ## Contents
 - [Introduction](#introduction)
@@ -50,6 +50,15 @@ This assignment explores the principles of HPC, focusing on parallel algorithms 
    ```bash
    python hpc_script.py
    ```
+4. Add README file to GitHub using VS Code terminal:
+   ```bash
+   git init
+   git add README.md
+   git commit -m "Added README file"
+   git branch -M main
+   git remote add origin <your-repository-url>
+   git push -u origin main
+   ```
 
 ## Results and Analysis
 - Performance comparison of sequential vs parallel execution.
@@ -64,5 +73,5 @@ Summarizes key findings, performance improvements, and potential enhancements fo
 
 ---
 **Author:** Aafiya Choudhary  
-**Date:** 02-04-2025
+**Date:** [Insert Submission Date]
 
